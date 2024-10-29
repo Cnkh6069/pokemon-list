@@ -1,4 +1,4 @@
-# Rocket Academy Coding Bootcamp: World Clock
+# Rocket Academy Coding Bootcamp: Pokemon
 
 ## Available Scripts
 
